@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.util.Patterns
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
-import com.dicoding.myreactiveform.databinding.ActivityMainBinding
+import com.arifahmadalfian.myreactiveform.databinding.ActivityMainBinding
 import com.jakewharton.rxbinding2.widget.RxTextView
 import io.reactivex.Observable
 import io.reactivex.functions.Function3
